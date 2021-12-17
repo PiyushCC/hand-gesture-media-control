@@ -1,4 +1,4 @@
-# hand_gesture_media_control
+# hand-gesture-media-control
 This project is a hand gesture recognition media controller. It controls the volume and play/pause of a video based on hand gesture.
 
 This project is developed by Piyush C, Pushkar G, Shivam G.
