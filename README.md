@@ -41,3 +41,11 @@ $ pip install python-vlc
 And your pc should have VLC media player installed (64-bit).
 
 If any error refer https://www.geeksforgeeks.org/vlc-module-in-python-an-introduction/
+
+Screenshots
+-----------
+
+
+![pause](https://user-images.githubusercontent.com/87484921/146571144-d0384f3f-7b47-4b35-8ec9-0e133467ccd6.png)
+
+![vol](https://user-images.githubusercontent.com/87484921/146571255-16f4bae8-205a-4845-8add-4bfc91a6725d.png)
