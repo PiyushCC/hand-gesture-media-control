@@ -30,3 +30,14 @@ or try creating a new environment. Use the name of enivronment which you want to
 $ conda create --name env_name --file requirements.txt
 
 If in any case error occurs please install the dependencies manually.
+
+Installing VLC
+--------------
+
+You also need to install python-vlc using
+
+$ pip install python-vlc
+
+And your pc should have VLC media player installed (64-bit).
+
+If any error refer https://www.geeksforgeeks.org/vlc-module-in-python-an-introduction/
