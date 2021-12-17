@@ -21,6 +21,10 @@ Installing Dependencies
 
 To install all the dependencies inside the project directory use
 
-pip install -r requirements.txt
+$ pip install -r requirements.txt
+
+or try
+
+$ conda create --name <env> --file requirements.txt
 
 If in any case error occurs please install the dependencies manually.
