@@ -23,11 +23,11 @@ Installing Dependencies
 
 To install all the dependencies inside the project directory use
 
-$ pip install -r requirements.txt
+# $ pip install -r requirements.txt
 
 or try creating a new environment. Use the name of enivronment which you want to create instead of 'env_name'.
 
-$ conda create --name env_name --file requirements.txt
+# $ conda create --name env_name --file requirements.txt
 
 If in any case error occurs please install the dependencies manually.
 
@@ -36,7 +36,7 @@ Installing VLC
 
 You also need to install python-vlc using
 
-$ pip install python-vlc
+# $ pip install python-vlc
 
 And your pc should have VLC media player installed (64-bit).
 
